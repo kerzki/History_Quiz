@@ -1,0 +1,9 @@
+1. registration_page.html 
+bug - btn-main-menu not working
+script arrangements
+2. Timer put in get getQuestions()
+3. Lipat quiz.js to localstorage
+.window.localStorage DONE
+.test on mobile
+4. modal for BOOTSTRAP
+5. Pang question ung nka display
